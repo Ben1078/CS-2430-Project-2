@@ -10,6 +10,10 @@
 
 package algorithmPerformance;
 
+/**
+ * interface for storing all algorithms in an array
+ * implementations must have the sort method
+ */
 public interface SortingAlgorithm {
     int sort(int[] ar);
 }

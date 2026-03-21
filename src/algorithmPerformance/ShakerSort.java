@@ -46,7 +46,7 @@ public class ShakerSort {
             end--;
             // iterate through ar from end to start, if ar[i] > ar[i+1] swap
             // once the for loop ends index at start is sorted
-            for (int i = end; i >= start; i--) {
+            for (int i = end - 1; i >= start; i--) {
                 comparisonCount++;
                 if (ar[i] > ar[i + 1]) {
                     int temp = ar[i];
