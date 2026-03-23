@@ -1,7 +1,7 @@
 # Scope Document
 
 ### Project Objective:
-Develop a Java-based command line application that generates all permutations of integers 0 through n−1, runs four sorting algorithms on every permutation, and reports best/worst/average element-to-element comparison counts for n = 4, 6, and 8.
+Develop a Java based command line application that generates all permutations of integers 0 through n−1, runs four sorting algorithms on every permutation, and reports best/worst/average element-to-element comparison counts for n = 4, 6, and 8.
 
 ### Functional Requirements:
 
@@ -30,7 +30,6 @@ For each algorithm at n = 4, 6, 8, output:
 
 ### Technical Specifications:
 - Language: Java (IntelliJ IDEA)
-- Interface: Command line only
 - Comparison counting must be consistent across all four algorithms
 
 ### Out of Scope:
