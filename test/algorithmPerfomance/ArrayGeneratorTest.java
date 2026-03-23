@@ -51,7 +51,7 @@ public class ArrayGeneratorTest {
     }
 
     @Test
-    void GeneratePermutations_ThreeArray_Results() {
+    void GeneratePermutations_ThreeArray_Results() {[]
         List<int[]> result = GeneratePermutations.generate(3);
         int[][] expected = {{0, 1, 2}, {0, 2, 1}, {1, 0, 2}, {1, 2, 0}, {2, 0, 1}, {2, 1, 0}};
 
