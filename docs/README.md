@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements and compares multiple sorting algorithms by running them on systematically generated input data. Performance is measured using the number of element-to-element comparisons, allowing for analysis of best, worst, and average cases.
 
+We used a trello board to stay organized and measure progress - https://trello.com/b/IEhcBGHM/2430-project-2
+
 ---
 
 ## Features
