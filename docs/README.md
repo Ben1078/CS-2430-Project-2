@@ -43,7 +43,8 @@ CS-2430-Project-2/
 ├── docs/
 │   ├── Project2Plan.xlsx
 │   ├── Project2_Pseudo.txt
-│   └── ScopeDocument.md
+│   ├── ScopeDocument.md
+│   └── cs2430_AwesomeSauce_p2_Report.pdf
 ├── .idea/
 │   └── IDE configuration files
 └── README.md
@@ -90,6 +91,7 @@ Experiments are conducted for input sizes:
 - HeapSort.java, MergeSort.java, QuickSort.java, ShakerSort.java - Sorting algorithm implementations
 - SortResult.java - Stores and reports results
 - TestDriver.java - Main entry point for running experiments
+- cs2430_AwesomeSauce_p2_Report.pdf - Final report conatining analysis
 - test/ - Unit tests for all major components
 - lib/ - JUnit library for testing
 - docs/ - Project documentation and planning materials
