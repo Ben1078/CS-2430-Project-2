@@ -68,11 +68,6 @@ The program is executed through TestDriver.java, which:
 - Counts the number of comparisons performed
 - Outputs performance results including best, worst, and average cases
 
-Experiments are conducted for input sizes:
-- n = 4
-- n = 6
-- n = 8
-
 ---
 
 ## Project Details
