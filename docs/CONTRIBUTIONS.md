@@ -2,10 +2,6 @@
 **Team Name:** Team Awesome Sauce  
 **Course:** CS-2430-502-Spring 2026
 
-## Team Members & Roles
-
----
-
 # Contributions
 
 ---
