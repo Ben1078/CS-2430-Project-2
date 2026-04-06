@@ -19,6 +19,7 @@ This project implements and compares multiple sorting algorithms by running them
 ---
 
 ## Project Structure
+```
 CS-2430-Project-2/
 ├── src/algorithmPerformance/
 │   ├── AlgorithmPerformance.java
@@ -46,6 +47,7 @@ CS-2430-Project-2/
 ├── .idea/
 │   └── IDE configuration files
 └── README.md
+```
 
 ---
 
