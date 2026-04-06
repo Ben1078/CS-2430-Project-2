@@ -14,6 +14,7 @@
     * Wrote video script and handled video editing
     * Managed final submission packaging and repository polish
     * Coordinated deliverables and ensured repository readiness for submission
+    * Created contributions document (`CONTRIBUTIONS.md`)
 * **Evidence Pointers:**
     * `P2-3` — Project Plan (Done)
     * `P2-5` — Video Script (Done)
