@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements and compares multiple sorting algorithms by running them on systematically generated input data. Performance is measured using the number of element-to-element comparisons, allowing for analysis of best, worst, and average cases.
 
+We used a trello board to stay organized and measure progress - https://trello.com/b/IEhcBGHM/2430-project-2
+
 ---
 
 ## Features
@@ -43,7 +45,8 @@ CS-2430-Project-2/
 ├── docs/
 │   ├── Project2Plan.xlsx
 │   ├── Project2_Pseudo.txt
-│   └── ScopeDocument.md
+│   ├── ScopeDocument.md
+│   └── cs2430_AwesomeSauce_p2_Report.pdf
 ├── .idea/
 │   └── IDE configuration files
 └── README.md
@@ -67,11 +70,6 @@ The program is executed through TestDriver.java, which:
 - Counts the number of comparisons performed
 - Outputs performance results including best, worst, and average cases
 
-Experiments are conducted for input sizes:
-- n = 4
-- n = 6
-- n = 8
-
 ---
 
 ## Project Details
@@ -90,6 +88,7 @@ Experiments are conducted for input sizes:
 - HeapSort.java, MergeSort.java, QuickSort.java, ShakerSort.java - Sorting algorithm implementations
 - SortResult.java - Stores and reports results
 - TestDriver.java - Main entry point for running experiments
+- cs2430_AwesomeSauce_p2_Report.pdf - Final report conatining analysis
 - test/ - Unit tests for all major components
 - lib/ - JUnit library for testing
 - docs/ - Project documentation and planning materials
